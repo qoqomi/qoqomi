@@ -1,3 +1,5 @@
+### 👩‍💻 Hi there
+ 
 Hi, I'm a front-end developer with about 3 years of experience, currently expanding into backend and AI-driven features.
  
 My goal is to become a full stack developer who understands both product UX and server-side data flow.
